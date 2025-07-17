@@ -35,3 +35,6 @@ The model can classify faces into the following age ranges:
 (60–100)
 
 These are pre-defined by the OpenCV age classifier and are not continuous numerical predictions.
+
+[Preditcion result](output.jpg)
+
